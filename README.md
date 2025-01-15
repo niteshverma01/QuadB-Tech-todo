@@ -12,7 +12,7 @@ This project is a React-based Todo Application that uses the Context API for glo
 
 ## Live Demo
 
-Check out the live application here: [Todos App Live](https://todo-chi-ivory.vercel.app/)
+Check out the live application here: [Todos App Live](https://quad-b-tech-todo-murex.vercel.app/)
 
 ## Screenshots
 
